@@ -77,20 +77,8 @@ print  """
 
 \033[1;97m      ITX DARSHAN H3R3 :V                   
 
-"""
-
-jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
-jalan("\033[1;96m•◈• 
-jalan("\033[1;97m•◈• 
-jalan("\033[1;96m•◈• 
-jalan("\033[1;96m•◈•  
-jalan("\033[1;96m•◈• 
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
-
-jalan("   \033[1;93m Welcome to Dark Xe Babsa Creations ")
-
-jalan("\033[1;97m•◈•──────────•◈•\033[1;96mTheAfgVirus\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "dark"
 CorrectPassword = "dark"
