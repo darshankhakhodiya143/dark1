@@ -80,9 +80,6 @@ print  """
 """
 
 jalan("\033[1;97m•◈•───────•◈ NOT A NAME ITS BRAND •◈•───────•◈•")  
-
-
-jalan("\033[1;96m•◈• BABSA ITX NOT A NAME ITX A BRAND
 jalan("\033[1;96m•◈• 
 jalan("\033[1;97m•◈• 
 jalan("\033[1;96m•◈• 
